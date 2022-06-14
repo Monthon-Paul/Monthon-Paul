@@ -1,4 +1,4 @@
-### Hi there, My name is Monthon Paul
+### Greetings, My name is Monthon Paul
 
 Currently Studying at the University of Utah as Computer Engineer
 
