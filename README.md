@@ -2,7 +2,7 @@
 
 Currently Studying at the University of Utah as Computer Engineer
 
-I am currently working on a portfolio website as my personal side project. 
+I am currently working on my many side projects listed in my Resume as I now have a Website running (by Github pages).
 
 I'm currently intrested in frontend & backend development, or applying myself into an Software intern. 
 
@@ -10,7 +10,7 @@ reach me by email at PaulMonthon127@gmail.com message me on <a href="https://www
 
 Take a look at my projects on my github if there is any.
 
-my website: <a href="https://monthon-paul.github.io/">Portfolio</a>
+my website: <a href="https://monthon-paul.github.io/">Portfolio Page</a>
 
 <!---
 Monthon-Paul/Monthon-Paul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
