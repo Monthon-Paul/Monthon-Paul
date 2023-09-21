@@ -1,16 +1,16 @@
 ### Greetings, My name is Monthon Paul
 
-Currently Studying at the University of Utah as Computer Engineer
+Currently Studying at the University of Utah in Computer Engineering.
 
-I am currently working on my many side projects listed in my Resume as I now have a Website running (by Github pages).
+I am currently working on the many side projects listed in my Resume as I now have a Website running (by Github pages).
 
-I'm currently intrested in frontend & backend development, or applying myself into an Software intern. 
+I'm currently interested in finding an Internship in Software Development, FullStack, and System Engineering. 
 
 reach me by email at PaulMonthon127@gmail.com message me on <a href="https://www.linkedin.com/in/monthon-paul-47a8a323a/">linkedin</a>
 
-Take a look at my projects on my github if there is any.
+Take a look at my projects on my GitHub if there are any.
 
-my website: <a href="https://monthonpaul.dev/">Portfolio Page</a>
+My website: <a href="https://monthonpaul.dev/">Portfolio Page</a>
 
 <!---
 Monthon-Paul/Monthon-Paul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
