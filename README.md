@@ -1,10 +1,10 @@
 ### Greetings, My name is Monthon Paul
 
-Currently Studying at the University of Utah in Computer Engineering.
+Recent grad at the University of Utah in Computer Engineering.
 
-I am interested in Computer System design or Computer Architecture, my plan is to attend Grad school some day.
+I am interested in Computer Systems or Computer Architecture, my plan is to attend Grad school some day.
 
-I'm currently interested in finding an Internship in Software Development, FullStack, or System Engineering. 
+Right now I'm currently working as a Computer Scientist at Hill AFB. 
 
 reach me by email at PaulMonthon127@gmail.com message me on <a href="https://www.linkedin.com/in/monthon-paul-47a8a323a/">linkedin</a>.
 
