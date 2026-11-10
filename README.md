@@ -10,7 +10,7 @@ reach me by email at PaulMonthon127@gmail.com message me on <a href="https://www
 
 Take a look at my projects on my GitHub if there are any.
 
-My website: <a href="https://monthonpaul.dev/">Portfolio</a> (running on Github pages)
+My website: <a href="https://monthon-paul.github.io/">Portfolio</a> (running on Github pages)
 
 <!---
 Monthon-Paul/Monthon-Paul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
